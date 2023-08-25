@@ -1,0 +1,6 @@
+Variable in Python are more like pointers.
+They just point to the particular object the are assigned to.
+check ./level_1/script4.py for better understanding
+
+Please also note that when we have re-assigned a value to a variable, it points to a different object, hence it points to a different location
+
